@@ -1,4 +1,4 @@
-/* General Styling */
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f4f7fc;
@@ -10,7 +10,7 @@ body {
     height: 100vh;
 }
 
-/* Main Container */
+
 .container {
     width: 90%;
     max-width: 500px;
@@ -21,12 +21,12 @@ body {
     text-align: center;
 }
 
-/* Title */
+
 h1 {
     color: #333;
 }
 
-/* Input Fields */
+
 input {
     width: 90%;
     padding: 10px;
@@ -36,7 +36,7 @@ input {
     font-size: 16px;
 }
 
-/* Add Task Button */
+
 button {
     background-color: #007BFF;
     color: white;
@@ -52,7 +52,7 @@ button:hover {
     background-color: #0056b3;
 }
 
-/* Task List */
+
 ul {
     list-style-type: none;
     padding: 0;
@@ -70,7 +70,7 @@ li {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* Delete Button */
+
 li button {
     background-color: #dc3545;
     font-size: 14px;
@@ -81,7 +81,7 @@ li button:hover {
     background-color: #c82333;
 }
 
-/* Responsive Design */
+
 @media (max-width: 600px) {
     .container {
         width: 100%;
